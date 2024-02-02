@@ -37,6 +37,7 @@ about:
     utf8proc is a small, clean C library that provides Unicode normalization, case-folding,
     and other operations for data in the UTF-8 encoding, supporting Unicode version 13.
   doc_url: https://juliastrings.github.io/utf8proc/
+  dev_url: https://github.com/JuliaStrings/utf8proc
 
 extra:
   recipe-maintainers:
